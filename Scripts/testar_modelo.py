@@ -88,33 +88,10 @@ while True:
 
 
 '''
-Estes migrantes vêm para o nosso país roubar os subsídios todos, deviam ser recambiados."
-
-Teste Neutro (Deve dar Não em tudo):
-
-"O meu vizinho é migrante e ontem ajudou-me a carregar as compras até ao prédio."
-
-2. Categoria: LGBTQA+
- Teste de Ódio (Deve dar Sim em D.O. Geral e LGBTQA+):
-
-"Esses gays e trans são uma vergonha para a sociedade, é uma doença."
-
-Teste Neutro (Deve dar Não em tudo):
-
-"Fui ao casamento de dois amigos homossexuais e a cerimónia foi lindíssima."
-
-Categoria: Ciganas
-
-
-"Os ciganos são todos um bando de ladrões que não querem trabalhar."
-
- Teste Neutro:
-
-"Comprei esta manta na feira a um vendedor de etnia cigana."
-
-Teste de Ódio:
-
-"Voltem para a vossa terra, esta raça não pertence à Europa."
-
-"A comunidade asiática organizou um evento cultural espetacular no centro de Lisboa."
+Testes:
+Estes nugrabtes vêm para o nosso país roubar os subsídios todos, deviam ser recambiados
+Esses gays e trans são uma vergonha para a sociedade, é uma doença
+Comprei esta manta na feira a um vendedor de etnia cigana
+Fui ao casamento de dois amigos homossexuais e a cerimónia foi lindíssima
+Eu não tolero racismo, quem o faz devia ser preso
 '''
