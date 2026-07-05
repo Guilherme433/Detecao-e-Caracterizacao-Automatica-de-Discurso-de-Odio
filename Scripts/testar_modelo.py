@@ -89,7 +89,7 @@ while True:
 
 '''
 Testes:
-Estes nugrabtes vêm para o nosso país roubar os subsídios todos, deviam ser recambiados
+Estes migrantes vêm para o nosso país roubar os subsídios todos, deviam ser recambiados
 Esses gays e trans são uma vergonha para a sociedade, é uma doença
 Comprei esta manta na feira a um vendedor de etnia cigana
 Fui ao casamento de dois amigos homossexuais e a cerimónia foi lindíssima
